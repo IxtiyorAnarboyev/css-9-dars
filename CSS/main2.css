@@ -1,0 +1,55 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: darkcyan;
+}
+.box{
+    width: 500px;
+    margin: 0 auto;
+    background-color: darkcyan;
+}
+h1{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+}
+input{
+    width: 60%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+input[type=submit]{
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(26, 171, 219);
+    color: white;
+    width: 60%;
+    text-align: center;
+}
+p{
+    width: 60%;
+    margin: 0 auto;
+    text-decoration: underline;
+    background-color: darkcyan;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+}
+h4{
+    color: #ffffff;
+    text-align: center;
+}
+img{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 100%;
+}
+.a{
+    margin-left: 120px;
+}
